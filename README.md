@@ -18,7 +18,7 @@
 
 <p align="center">Explore my professional profile, technical writing, and applied AI work across these platforms. </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/dvvreddy/">
+  <a href="https://www.linkedin.com/in/d-vishnu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@vishnuvardhanreddy31325">
